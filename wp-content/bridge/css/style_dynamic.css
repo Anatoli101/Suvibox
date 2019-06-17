@@ -1,0 +1,393 @@
+
+
+
+
+    body{
+    	    	    	font-family: 'Montserrat', sans-serif;
+    	    	    	    	    }
+            body,
+		.wrapper,
+        .content,
+        .full_width,
+        .overlapping_content .content > .container,
+		.more_facts_holder,
+		.comment_holder .comment #respond textarea,
+		.comment_holder .comment #respond input[type='text'],
+		.comment_holder .comment #respond input[type='email'],
+		.content .container
+		{
+        	background-color:#ffffff;
+        }
+		.angled-section polygon{
+			fill: #ffffff;
+		}
+				
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content{
+	margin-top: 0;
+}
+
+.logo_wrapper,
+.side_menu_button,
+.shopping_cart_inner
+{
+	height: 80px;
+}
+.content.content_top_margin{
+	margin-top: 80px !important;
+}
+
+header:not(.centered_logo) .header_fixed_right_area {
+    line-height: 80px;
+}
+
+
+
+
+
+        header.fixed_hiding .q_logo a,
+        header.fixed_hiding .q_logo{
+            max-height: 60px;
+        }
+
+    @media only screen and (max-width: 1000px){
+        .q_logo a,.q_logo img{
+            height: 60px !important;
+        }
+    }   
+
+    @media only screen and (max-width: 480px){
+        .q_logo a,.q_logo img{
+            height: 60px !important;
+        }
+    }   
+
+
+nav.main_menu > ul > li > a{
+	line-height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.google_map{
+	height: 750px;
+}
+
+
+	.footer_top_holder,	footer #lang_sel > ul > li > a,	footer #lang_sel_click > ul > li > a{
+		background-color: #ffffff;
+	}
+	footer #lang_sel ul ul a,footer #lang_sel_click ul ul a,footer #lang_sel ul ul a:visited,footer #lang_sel_click ul ul a:visited{
+		background-color: #ffffff !important;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.blog_holder.blog_large_image article:not(.format-quote):not(.format-link) .post_text .post_text_inner{
+		padding-left:0;
+		padding-right:0;
+		background-color:transparent;
+	}
+
+	.blog_holder.blog_large_image h2,
+	.blog_holder.blog_large_image h2 a,
+	.blog_holder.blog_single article h2
+	{
+	font-family: Montserrat;font-size: 28px;font-weight: 600;text-transform: none;	}
+	.blog_large_image h2 a,
+	.blog_holder.blog_single article h2
+	{
+	color:#50515c;
+	}
+	.blog_holder.blog_large_image article .post_text h2 .date,
+	.blog_holder.blog_single article .post_text h2 .date
+	{
+	color:#94c11f;
+	}
+
+
+
+
+
+
+
+@media only screen and (min-width:480px){
+	body.page-template-blog-masonry-full-width .content .full_width .full_width_inner,
+	body.page-template-blog-masonry-full-width-date-in-image .content .full_width .full_width_inner{
+	padding: 10px;
+	}
+}
+
+
+
+
+
+
+
+
+/*Blog Masonry Gallery - end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ .vertical_menu_float .menu-item .second{
+	left: calc(100% + 30px); /*because of the padding*/
+}
+
+.vertical_menu_hidden aside.vertical_menu_area .vertical_menu_float .menu-item .second {
+	left: calc(100% + 40px);
+}
+
+ 
+ 
+ 
+
+
+
+
+	.vertical_menu_area{
+		text-align:left;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .portfolio_main_holder .item_holder.thin_plus_only .thin_plus_only_icon {
+        font-family:     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+    .masonry_gallery_item.square_big .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.square_small .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.rectangle_portrait .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.rectangle_landscape .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+
+
+
+
+
+
